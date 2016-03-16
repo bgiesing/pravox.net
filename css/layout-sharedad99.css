@@ -337,7 +337,6 @@ div:hover > .mz_banner .moze-banner-slide-left
 
 .mz_editable .moze-img-center {
     display: block;
-    margin: 20px auto !important;
 }
 
 @media screen and (max-width: 500px) {

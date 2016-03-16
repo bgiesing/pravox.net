@@ -1,0 +1,19 @@
+<div id=header>
+<div id=languages>
+</div>
+<div id=title>
+<a href=index.html><div class="mz_component mz_wysiwyg mz_editable"> <div class=moze-wysiwyg-editor>
+<img src={{site.logos}}pravox-networks-logo.png class=moze-img-center style=width:159px>
+</div>
+</div></a>
+</div>
+<div class="mz_component mz_menu" id=menu>
+<ul>
+{% if page.url == "/about-us" %}<li class="active">{% else %}<li>{% endif %}<a href=about-us>About Us</a></li>
+{% if page.url == "/news" %}<li class="active">{% else %}<li>{% endif %}<a href=news>News</a></li>
+{% if page.url == "/contact" %}<li class="active">{% else %}<li>{% endif %}<a href=contact>Contact</a></li>
+{% if page.url == "/donate" %}<li class="active">{% else %}<li>{% endif %}<a href=donate>Donate</a></li>
+</ul>
+</div>
+<br style="clear:both"/>
+</div>
