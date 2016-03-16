@@ -74,45 +74,6 @@ img {
     left: 0;
 }
 
-.mz_banner .moze-banner-slide-left,
-.mz_banner .moze-banner-slide-right
-{
-    background: rgba(0, 0, 0, 0.4) no-repeat center center;
-    background-size: 25px;
-    position: absolute;
-    opacity: 0;
-    top: 50%;
-    width: 50px;
-    height: 50px;
-    margin-top: -25px;
-    display: block;
-    z-index: 101;
-}
-
-.mz_banner .moze-banner-slide-left {
-    background-image: url("http://dss4hwpyv4qfp.cloudfront.net/libs/icons/icon-arrow-left-white.svg");
-    left: 0;
-}
-
-.mz_banner .moze-banner-slide-right {
-    background-image: url("http://dss4hwpyv4qfp.cloudfront.net/libs/icons/icon-arrow-right-white.svg");
-    right: 0;
-}
-
-div:hover > .mz_banner .moze-banner-slide-right,
-div:hover > .mz_banner .moze-banner-slide-left
-{
-    opacity: 1;
-}
-
-@media screen and (max-width: 600px) {
-    div:hover > .mz_banner .moze-banner-slide-right,
-    div:hover > .mz_banner .moze-banner-slide-left
-    {
-        opacity: 0;
-    }
-}
-
 #social .twitter:hover {
     color: #44CCF6;
 }
