@@ -1,0 +1,295 @@
+/*** editable ***/
+
+body {
+    font-family: 'Exo 2', Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    color: #444444;
+}
+
+/* general content areas */
+
+.mz_editable {
+    font-family: 'Exo 2', Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    color: #444444;
+    line-height: 1.6;
+}
+
+.mz_editable p {
+    margin: 20px 0px;
+}
+
+/* font size classes for editable content */
+
+.mz_editable .moze-tiny       { font-size: 10px; }
+.mz_editable .moze-small      { font-size: 12px; }
+.mz_editable .moze-normal     { font-size: 15px; }
+.mz_editable .moze-large      { font-size: 16px; }
+.mz_editable .moze-huge       { font-size: 18px; }
+.mz_editable .moze-gigantic   { font-size: 21px; }
+
+/* alignment classes for editable content */
+
+.mz_editable .moze-left    { text-align: left; }
+.mz_editable .moze-center  { text-align: center; }
+.mz_editable .moze-right   { text-align: right; }
+.mz_editable .moze-justify { text-align: justify; }
+
+/* hyperlinks */
+
+a, .mz_editable a {
+    color: #CE0000;
+    text-decoration: none;
+}
+
+a:hover, .mz_editable a:hover {
+    color: #9B0506;
+}
+
+/* bullet list in editable text */
+
+.mz_editable ul li {
+    list-style-type: square;
+}
+
+/* headings in editable text */
+
+.mz_editable h1, .mz_editable h1.moze-megatitle {
+    font-family: 'Exo 2', Arial, Helvetica, sans-serif;
+    font-size: 47px;
+    color: #444444;
+    margin-top: 0px;
+    line-height: 1.2;
+    margin-bottom: 25px;
+    font-weight: 600;
+    letter-spacing: -0.02em;
+}
+
+.moze-megatitle {
+    font-size: 70px !important;
+}
+
+.mz_editable h2, .sidebox h2 {
+    font-family: 'Exo 2', Arial, Helvetica, sans-serif;
+    font-size: 29px;
+    color: #444444;
+    margin-bottom: 20px;
+    font-weight: 600;
+    letter-spacing: -0.01em;
+    line-height: 1.2;
+}
+
+.mz_editable h2:first-child, .sidebox h2 {
+    margin-top: 0px;
+}
+
+.mz_editable h3 {
+    font-family: 'Exo 2', Arial, Helvetica, sans-serif;
+    font-size: 19px;
+    color: #444444;
+    font-weight: 600;
+    line-height: 1.2;
+}
+
+/* special text styles */
+
+.mz_editable .moze-important {
+    background-color: #F2F2F2;
+    font-weight: bold;
+    color: #000000;
+}
+
+.mz_editable .moze-secondary {
+    color: #999999;
+    font-size: 90%;
+}
+
+.mz_editable .moze-blockquote {
+    display: block;
+    margin: 16px 0px 16px 20px;
+    border-left: 5px solid #DDDDDD;
+    padding: 10px;
+    color: #999999;
+    background-color: #FFFFFF;
+    font-style: italic;
+    font-family: Georgia, serif
+}
+
+.mz_editable .moze-code {
+    font-family: 'Courier New', Courier, monospace;
+    display: block;
+    line-height: 1.4;
+    padding: 9px;
+    background-color: #F2F2F2;
+    margin: 16px 0px 16px 0px;
+    color: #999999
+}
+
+/* user inserted pictures */
+
+.mz_editable img {
+
+}
+
+/* tables */
+
+.mz_editable table {
+    border-spacing: 1px;
+    border-collapse: collapse;
+    background-color: #FFFFFF
+}
+
+.mz_editable td {
+    padding: 9px;
+    margin: 0px;
+    border-bottom: 1px solid #DDDDDD;
+}
+
+.mz_editable .moze-th {
+    background-color: #F2F2F2;
+    font-weight: normal;
+    color: #999999;
+    border-bottom: none;
+}
+
+
+/* image galleries */
+
+ul.moze-gallery li {
+
+}
+
+/* webforms */
+
+.moze-form {
+    margin: 19px 0px;
+}
+
+.moze-form label {
+    display: inline-block;
+    margin: 0px 0px 4px 0px;
+    font-size: 15px;
+    color: #999999;
+}
+
+.moze-form input,
+.moze-form select,
+.moze-form textarea {
+    font-family: 'Exo 2', Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    border: none;
+    padding: 12px;
+    margin: 0px 0px 16px 0px;
+    color: #444444;
+    font-weight: 300;
+    background-color: #F2F2F2;
+}
+
+.moze-form .moze-formbutton {
+    font-family: 'Exo 2', Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    color: #FFFFFF;
+    background-color: #9B0506;
+    margin: 16px 0px 0px 0px;
+    border: none;
+    padding: 15px 21px;
+    font-weight: normal
+}
+
+.moze-form .moze-formbutton:hover {
+    background-color: #A0A0A0;
+}
+
+/* invalid input style */
+
+.moze-form .moze-formerror {
+    border: 1px solid #CC6666;
+    box-shadow: 0px 0px 3px 0px #CC6666;
+}
+
+/* blog and articles */
+
+.mz_editable .moze-postdetails,
+.mz_editable .moze-postdetails a {
+    color: #A0A0A0;
+    text-decoration: none;
+    margin-top: -12px;
+    margin-bottom: 15px;
+}
+
+.mz_editable .moze-comment {
+    padding: 20px;
+    margin-bottom: 27px;
+    background-color: #FFFFFF
+}
+
+.mz_editable .moze-comment div {
+    margin-bottom: 5px;
+}
+
+.mz_editable .moze-comment div:last-child {
+    margin-bottom: 0px;
+}
+
+.mz_editable h2 span#comments {
+    color: #666666;
+}
+
+.moze-button,
+.moze-button-large,
+.moze-button *,
+.moze-button-large * {
+    color: #FFFFFF !important;
+    text-decoration: none;
+}
+
+.moze-button, .moze-button-large {
+    display: inline-block;
+    padding: 8px 14px;
+    background-color: #9B0506;
+    text-decoration: none;
+    font-family: 'Exo 2', Arial, Helvetica, sans-serif;
+    font-size: 14px;
+}
+
+.moze-button:hover, .moze-button-large:hover {
+    background-color: #A0A0A0;
+}
+
+.moze-button-large  {
+    font-size: 16px;
+    padding: 15px 25px;
+}
+
+.mz_editable hr.moze-more-divider
+{
+    display: none;
+}
+
+/* list of recent blog posts */
+
+.mz_recentposts a {
+    text-decoration: none;
+    margin-bottom: 2px;
+    display: inline-block;
+}
+
+.mz_recentposts a:hover {
+    color: #444444;
+}
+
+.mz_recentposts ul {
+    padding: 0;
+    margin-bottom: 23px;
+}
+
+.mz_recentposts ul li {
+    list-style: none;
+    margin-bottom: 13px;
+    line-height: 1.4;
+}
+
+.mz_recentposts ul li span {
+    color: #A0A0A0;
+    font-size: 13px
+}
