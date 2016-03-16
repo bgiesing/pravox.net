@@ -3,6 +3,9 @@ layout: small
 title: Pravox Networks - About Us
 permalink: /about-us
 ---
+<div id="main">
+<div id="editable">
+<div class="mz_component mz_wysiwyg mz_editable"> <div class="moze-wysiwyg-editor" markdown="1">
 # About Us
 Welcome to Pravox Networks, a station group of free, independent, and FCTV stations!
 
@@ -14,3 +17,6 @@ A key component of our stations are the focus on specific topic groups. Yes we h
 
 ## Always Free
 By being free and online, we don't have to pay fees or limit content to support ad companies. However, we still have costs! First the domain name for the homepage is $12/year and the hosting is $72/year. Add a bit of padding for life and we have $100 per year. Our goal of $500 is for 5 years or less with room for new projects that may add more costs.
+</div></div></div>
+<br class="clear">
+</div>
