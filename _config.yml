@@ -4,7 +4,7 @@ description: Fan Controlled TV
 keywords: tv, pravox networks, fctv, user-controlled tv
 
 # Variables
-watch: http://watch.pravox.net/
+watch: 'http://watch.pravox.net/'
 logos: /img/logos/
 gfont: https://fonts.googleapis.com
 jquery: https://code.jquery.com/jquery-2.2.1.min.js
