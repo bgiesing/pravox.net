@@ -15,51 +15,16 @@ layout: default
 <p></p>
 <table class="moze-table-border" style="text-align:left">
     <tbody>
-        <tr>
-            <td>
-            <a href="{{site.watch}}r/variety" target="_self" rel="nofollow" rel="nofollow">
-            <img src="{{site.logos}}pravox-variety-logo.png" style="width:160px">
-            </a>
-            </td>
-            <td>Anything goes!</td>
-        </tr>
-        <tr>
-            <td>
-            <a href="{{site.watch}}r/form" target="_self" rel="nofollow" rel="nofollow">
-            <img src="{{site.logos}}pravox-form-logo.png" style="text-align:right;width:160px" alt="Pravox FORM">
-            </a>
-            </td>
-            <td>Animation, Design, 3D Printing, Film, Life Hacks, Building, Audio Production,
-            and more!</td>
-        </tr>
-        <tr>
-            <td>
-            <a href="{{site.watch}}r/munch" target="_self" rel="nofollow" rel="nofollow">
-            <img src="{{site.logos}}pravox-munch-logo.png" style="text-align:right;width:160px" alt="Pravox MUNCH">
-            </a>
-            </td>
-            <td>Recipes, Ads, Competition, Top Lists, Pranks, Tips, and Science videos about
-            Foods/Drinks and Health/Fitness!</td>
-        </tr>
-        <tr>
-            <td>
-            <a href="{{site.watch}}r/geek" target="_self" rel="nofollow" rel="nofollow">
-            <img src="{{site.logos}}pravox-geek-logo.png" style="text-align:right;width:160px" alt="Pravox GEEK">
-            </a>
-            </td>
-            <td>Tech, Gaming, TV, Storytelling, Fan creations, and other geeky/nerdy content!
-            <br>
-            </td>
-        </tr>
-        <tr>
-            <td>
-            <a href="{{site.watch}}r/tune" target="_self" rel="nofollow" rel="nofollow">
-            <img src="{{site.logos}}pravox-tune-logo.png" style="text-align:right;width:160px" alt="Pravox TUNE">
-            </a>
-            </td>
-            <td>Any genre Music Videos, Top Lists, Game/TV/Movie music, Reviews, Mashups/Fan
-            content, and more!</td>
-        </tr>
+      {% for station in site.data.stations %}
+      <tr>
+          <td>
+          <a href="{{site.watch|append:{{station.url}}" target="_self" rel="nofollow">
+          <img src="{{site.logos|append:{{station.logo}}" style="text-align:right;width:160px;" alt="{{station.name}}">
+          </a>
+          </td>
+          <td>{{station.info}}</td>
+      </tr>
+      {% endfor %}
     </tbody>
 </table>
 </div>
@@ -67,13 +32,13 @@ layout: default
 <div class="ducolumn"><div class="mz_component mz_wysiwyg mz_editable"> <div class="moze-wysiwyg-editor">
 <h2>Partner Stations</h2>
 <p>We can partner with other stations to share resources (mods, media, etc.)</p>
-<p>If you have a station that you want&nbsp;affiliated&nbsp;with us, please&nbsp;
-<a href="contact/index.html" target="_self" style="">contact us</a>!</p>
+<p>If you have a station that you want affiliated with us, please <a href="contact/index.html" target="_self" style="">contact us</a>!</p>
 <p>Also click below&nbsp;to make your own!</p>
 <p class="moze-center"><b><a href="{{site.watch}}" target="_self" class="moze-button-large" rel="nofollow" rel="nofollow">Pravox YOU</a></b>
 <br>
 </p>
-<div style="border:2px solid black;"><h2>Advertisement</h2><script type='text/javascript' src='//clksite.com/adServe/banners?tid=109955_194631_0'></script></div>
+<h2 class="moze-center">Advertisement</h2>
+<div class="moze-center" style="border:2px solid black;"><script type='text/javascript' src='//clksite.com/adServe/banners?tid=109955_194631_0'></script></div>
 </div>
 </div></div>
 </div>

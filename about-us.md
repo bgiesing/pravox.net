@@ -1,6 +1,6 @@
 ---
 layout: small
-title: Pravox Networks - About Us
+title: About Us
 permalink: /about-us
 ---
 <div id="main">
