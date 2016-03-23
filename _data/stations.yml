@@ -1,0 +1,20 @@
+- name: Pravox VARIETY
+  url: r/variety
+  logo: pravox-variety-logo.png
+  info: 'Anything goes!'
+- name: Pravox FORM
+  url: r/form
+  logo: pravox-form-logo.png
+  info: 'Animation, Design, 3D Printing, Film, Life Hacks, Building, Audio Production, and more!'
+- name: Pravox MUNCH
+  url: r/munch
+  logo: pravox-munch-logo.png
+  info: 'Recipes, Ads, Competition, Top Lists, Pranks, Tips, and Science videos about Foods/Drinks and Health/Fitness!'
+- name: Pravox GEEK
+  url: r/geek
+  logo: pravox-geek-logo.png
+  info: 'Tech, Gaming, TV, Storytelling, Fan creations, and other geeky/nerdy content!'
+- name: Pravox TUNE
+  url: r/tune
+  logo: pravox-tune-logo.png
+  info: 'Any genre Music Videos, Top Lists, Game/TV/Movie music, Reviews, Mashups/Fan content, and more!'
