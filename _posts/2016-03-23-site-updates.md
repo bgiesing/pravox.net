@@ -1,3 +1,8 @@
+---
+layout: posts
+title: "Pravox Update: Same but Different!"
+---
+
 Hey guys! So it's been a while since I talked about Pravox so here's some updates!
 
 # Site Revamp
