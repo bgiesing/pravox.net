@@ -7,7 +7,7 @@ title: "Pravox: Now with EXTRA Material!"
 Failure... I have experienced lots of it on the journey of Pravox, yet it always gives me new ideas to make it better and learn from the past. That creativity is what inspired me to make this site and redo Pravox. Read on to see our new company/station logos and read about it's creative process.
 
 # New Logo
-![Pravox Networks Logo]({{site.logos}}logo.png)
+![Pravox Networks Logo]({{site.logos|append:'pravox-networks-logo.png'}})
 Above is our new (and 1st) logo! Inspired by Google's Material Design, it showcases our central concept of TV (the antenna) powered by the fans (the people). The wordmark features a minimal design with shades of black to not distract from the content.
 
 ## Designing It
@@ -26,18 +26,18 @@ The words are equal height with Pravox being in Secondary text and not as wide a
 For the individual station logos, a few things change. First, the Antenna gradient and center person changes purple to the specific station brand color. Secondly, Networks is replaced with the station name in ALL CAPS using the brand color. Lastly, the Pravox wordmark is made smaller in height and width than the station brand.
 
 ### Pravox VARIETY
-![Pravox VARIETY Logo]({{site.logos}}pravox-variety-logo.png)
+![Pravox VARIETY Logo]({{site.logos|append:'pravox-variety-logo.png'}})
 
 ###Pravox FORM
-![Pravox FORM Logo]({{site.logos}}pravox-form-logo.png)
+![Pravox FORM Logo]({{site.logos|append:'pravox-form-logo.png'}})
 
 ### Pravox GEEK
-![Pravox GEEK Logo]({{site.logos}}pravox-geek-logo.png)
+![Pravox GEEK Logo]({{site.logos|append:'pravox-geek-logo.png'}})
 
 ### Pravox TUNE
-![Pravox TUNE Logo]({{site.logos}}pravox-tune-logo.png)
+![Pravox TUNE Logo]({{site.logos|append:'pravox-tune-logo.png'}})
 
 ### Pravox MUNCH
-![Pravox MUNCH Logo]({{site.logos}}pravox-munch-logo.png)
+![Pravox MUNCH Logo]({{site.logos|append:'pravox-munch-logo.png'}})
 
 **What do you think of the new logos?**
