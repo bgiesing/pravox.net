@@ -8,10 +8,10 @@ What does this mean for you?
 2. More secure as it's hosted through GitHub Pages and now has HTTPS!
 3. Domain! So before I had the site domain (pravox.net) redirecting to Mozello's page because they didn't allow custom URLs. Now there's no redirect (which also helps the above 2 points).
 
-I'm still tweaking some things so if anything looks "broken", Contact me at me@brandongiesing.com
+I'm still tweaking some things so if anything looks "broken", please contact me at me@brandongiesing.com
 
 # Pravox YOU
-Our own hosted platform didn't really work as nobody wants to sign up for accounts (can you blame them?). I'm currently in the process of examing other platforms but most require signup. However, some can be signed up with existing accounts (Facebook, Twitter, Google, etc.). Also almost every one is "music-oriented" which could be confusing.
+Our own hosted platform didn't really work as nobody wants to sign up for accounts (can you blame them?). I'm currently in the process of examining other platforms but most require signup. However, some can be signed up with existing accounts (Facebook, Twitter, Google, etc.). Also almost every one is "music-oriented" which could be confusing.
 
 Here's what I'm considering:
 - Dubtrack.fm
@@ -23,4 +23,4 @@ Here's what I'm considering:
 - BeatSense
   - Music-oriented, Only Facebook and Email Login but has a unique function to play past-added stuff when nobody is online to add anything. This means you always have something to watch and (since it will jump back to new stuff the second something is submitted) means that the auto-playlist won't keep you waiting for hours on end.
 
-Out of those, I have tried all of them except Musiqpad so I'm going to test it out and see if it works. In the meanwhile, we are sticking to our platform.
+In the meanwhile, we are sticking to our platform but if you know of any better options, contact me also!
