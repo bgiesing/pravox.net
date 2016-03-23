@@ -1,6 +1,6 @@
 ---
 layout: small
-title: Pravox Networks - Contact
+title: Contact
 permalink: /contact
 ---
 <div id="main">
