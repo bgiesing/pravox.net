@@ -18,7 +18,7 @@ layout: default
       {% for station in site.data.stations %}
       <tr>
           <td>
-          <a href="{{site.url|append:/{{station.url}}" target="_self" rel="nofollow">
+          <a href="{{site.url|append:{{station.url}}" target="_self" rel="nofollow">
           <img src="{{site.logos|append:{{station.logo}}" style="text-align:right;width:160px;" alt="{{station.name}}">
           </a>
           </td>
