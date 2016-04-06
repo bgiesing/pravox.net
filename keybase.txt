@@ -1,0 +1,51 @@
+https://keybase.io/bgiesing
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://pravox.net
+  * I am bgiesing (https://keybase.io/bgiesing) on keybase.
+  * I have a public key ASAuVvv9WWzzTGdQaKIod8phz5GryYC6O0Axa7GL121VkQo
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0101004a859f464562e6b30148d15d83eeeda47b06419c707da0ace9781ccb3f85170a",
+            "host": "keybase.io",
+            "kid": "01202e56fbfd596cf34c675068a22877ca61cf91abc980ba3b40316bb18bd76d55910a",
+            "uid": "c35c329049f4d8ee4003aae76e636119",
+            "username": "bgiesing"
+        },
+        "service": {
+            "hostname": "pravox.net",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.15"
+    },
+    "ctime": 1459973971,
+    "expire_in": 504576000,
+    "merkle_root": {
+        "ctime": 1459973931,
+        "hash": "224f848c087673f77ed7966d4399e8bcffd900092af8eda334929fdbd40a89f50091dacc0652e21ef0467ce2ff69768b02e9f627491bc238b8ac8e4d46ca5ffd",
+        "seqno": 432725
+    },
+    "prev": "40aea5cfb30c8015bb778367770eabde86e9b7caee4c34dc5c34ab96ddb5a906",
+    "seqno": 16,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+g6Rib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgLlb7/Vls80xnUGiiKHfKYc+Rq8mAujtAMWuxi9dtVZEKp3BheWxvYWTFAvN7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTAxMDA0YTg1OWY0NjQ1NjJlNmIzMDE0OGQxNWQ4M2VlZWRhNDdiMDY0MTljNzA3ZGEwYWNlOTc4MWNjYjNmODUxNzBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwMmU1NmZiZmQ1OTZjZjM0YzY3NTA2OGEyMjg3N2NhNjFjZjkxYWJjOTgwYmEzYjQwMzE2YmIxOGJkNzZkNTU5MTBhIiwidWlkIjoiYzM1YzMyOTA0OWY0ZDhlZTQwMDNhYWU3NmU2MzYxMTkiLCJ1c2VybmFtZSI6ImJnaWVzaW5nIn0sInNlcnZpY2UiOnsiaG9zdG5hbWUiOiJwcmF2b3gubmV0IiwicHJvdG9jb2wiOiJodHRwczoifSwidHlwZSI6IndlYl9zZXJ2aWNlX2JpbmRpbmciLCJ2ZXJzaW9uIjoxfSwiY2xpZW50Ijp7Im5hbWUiOiJrZXliYXNlLmlvIGdvIGNsaWVudCIsInZlcnNpb24iOiIxLjAuMTUifSwiY3RpbWUiOjE0NTk5NzM5NzEsImV4cGlyZV9pbiI6NTA0NTc2MDAwLCJtZXJrbGVfcm9vdCI6eyJjdGltZSI6MTQ1OTk3MzkzMSwiaGFzaCI6IjIyNGY4NDhjMDg3NjczZjc3ZWQ3OTY2ZDQzOTllOGJjZmZkOTAwMDkyYWY4ZWRhMzM0OTI5ZmRiZDQwYTg5ZjUwMDkxZGFjYzA2NTJlMjFlZjA0NjdjZTJmZjY5NzY4YjAyZTlmNjI3NDkxYmMyMzhiOGFjOGU0ZDQ2Y2E1ZmZkIiwic2Vxbm8iOjQzMjcyNX0sInByZXYiOiI0MGFlYTVjZmIzMGM4MDE1YmI3NzgzNjc3NzBlYWJkZTg2ZTliN2NhZWU0YzM0ZGM1YzM0YWI5NmRkYjVhOTA2Iiwic2Vxbm8iOjE2LCJ0YWciOiJzaWduYXR1cmUifaNzaWfEQMvu2fdMCuRoQsBSrEwG6eJY2+/KB+8oBcXDupBOFV0aadz1QTZAK9Ydn6+kII9lMA1RAiGUGVBRrRarptdIFAOoc2lnX3R5cGUgo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/bgiesing
