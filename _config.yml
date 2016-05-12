@@ -2,13 +2,13 @@
 title: Pravox Networks
 description: Fan Controlled TV
 keywords: tv, pravox networks, fctv, user-controlled tv
-url: //pravox.net/
+url: //pravox.net
 
 # Variables
 watch: 'http://watch.pravox.net/'
 logos: /img/logos/
 gfont: https://fonts.googleapis.com
-jquery: https://code.jquery.com/jquery-2.2.1.min.js
+jquery: //code.jquery.com/jquery-2.2.3.min.js
 social:
     twitter: https://twitter.com/PravoxNetworks
 
