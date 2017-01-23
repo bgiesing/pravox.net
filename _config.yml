@@ -6,7 +6,7 @@ url: //bgiesing.github.io/pravox.net/
 
 # Variables
 watch: 'http://watch.pravox.net/'
-logos: /img/logos/
+logos: /pravox.net/img/logos/
 gfont: https://fonts.googleapis.com
 jquery: //code.jquery.com/jquery-2.2.3.min.js
 social:
